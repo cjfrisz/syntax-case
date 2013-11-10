@@ -1,5 +1,4 @@
-(ns syntax-case.util
-  (:require [clojure.string :refer [lower-case]]))
+(ns syntax-case.util)
 
 (defn- make-name
   [& elt*]
