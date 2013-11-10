@@ -2,6 +2,7 @@
 
 An implementation of the `syntax-case` syntax transformer in Clojure.
 Based on the paper [Syntacitic Abstraction: The syntax-case expander](http://www.cs.indiana.edu/~dyb/pubs/bc-syntax-case.pdf).
+by Kent Dybvig.
 
 ## License
 
