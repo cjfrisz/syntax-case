@@ -12,7 +12,7 @@
 ;;   - which functions in the algorithm get exported vs. which are local
 
 (ns syntax-case.core
-  (:require [syntax-case.util :refer [syntax-case]]))
+  (:require [syntax-case.util :refer [defrecord+]]))
 
 ;;------------------------------
 ;; SECTION 3: Representations
